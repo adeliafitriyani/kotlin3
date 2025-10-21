@@ -10,6 +10,7 @@ class InitOrder(name: String) {
         println("Second initializer block that prints ${name.length}")
     }
 }
+
 fun main(){
     val initOrder = InitOrder("RPL")
 }
