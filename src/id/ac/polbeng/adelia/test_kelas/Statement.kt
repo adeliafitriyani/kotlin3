@@ -1,5 +1,6 @@
 package id.ac.polbeng.adelia.test_kelas
 
+
 class PersonB (_firstName: String, _lastName: String, _age: Int) {
     var firstName:String = _firstName
     var lastName:String = _lastName
